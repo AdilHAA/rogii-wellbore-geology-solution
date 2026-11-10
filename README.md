@@ -105,5 +105,3 @@ infer.py                      # Отдельный inference CNN-SDF exp217
 src/                          # Компактная реализация CNN-SDF exp217
 requirements.txt
 ```
-
-Финальные скрипты сохраняют paths исходных Kaggle runs. В `final_cv.py` также подключаются `az_member_pipeline.py` и `ochir_member_pipeline.py` из внешних inputs; эти два файла Kaggle API не вернул, поэтому в репозитории их пока нет.
