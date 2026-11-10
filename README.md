@@ -1,6 +1,6 @@
 # ROGII — Wellbore Geology Prediction
 
-Решение соревнования [ROGII — Wellbore Geology Prediction](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction) на Kaggle. Команда **N & A & O & A & A** заняла **22-е место из 6 125 команд** и получила золотую медаль.
+Решение соревнования [ROGII — Wellbore Geology Prediction](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction) на Kaggle. Команда **N & A & O & A & A misis** заняла **22-е место из 6 125 команд** и получила золотую медаль.
 
 Моя часть решения — модель 2D U-Net / CNN-SDF. Итоговый ensemble команды объединял пять разных подходов; здесь приведён код моей модели.
 
