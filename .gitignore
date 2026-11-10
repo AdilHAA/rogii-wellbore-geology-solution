@@ -9,3 +9,9 @@ weights/
 *.pt
 *.pth
 submission.csv
+*.parquet
+*.pkl
+*.pkl.xz
+*.npy
+*.npz
+*.csv
